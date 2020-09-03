@@ -1,5 +1,0 @@
-
-# Contributer's Guide
-
-# Installation 
-
